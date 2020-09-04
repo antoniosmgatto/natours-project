@@ -19,7 +19,7 @@
   "devDependencies": {
     "install": "^0.13.0",
     "jshint": "^2.11.0-rc1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "prettier": "^1.19.1"
   }
 }
